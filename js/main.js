@@ -32,7 +32,7 @@ function displayPost(post){
     var box = document.getElementsByClassName('box');
 	var addedbox = document.createElement('div');
 	addedbox.className('kamilla');
-	box.prepend(addedbox);    
+	
 /*
 
 	display none forClone and display visible later
